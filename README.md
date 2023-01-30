@@ -1,1 +1,1 @@
-# google-test-hello-world
+# googletest-hello-world
